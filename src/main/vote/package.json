@@ -1,0 +1,10 @@
+{
+  "name": "restful-vote",
+  "description": "Rest endpoint of up or downvoting a song",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "express": "4.x",
+	"body-parser": "1.x"
+  }
+}
