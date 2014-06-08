@@ -1,0 +1,14 @@
+{
+  "name": "PumpUp",
+  "description": "Rest endpoint of up or downvoting a song",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "oauth":"0.x",
+	"rdio":"1.5.x",
+	"passport-rdio":"0.1.x",
+	"express":"4.x",
+	"body-parser":"1.x",
+	"cors":"2.x"
+  }
+}
